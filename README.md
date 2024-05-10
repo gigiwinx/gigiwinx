@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->![](link)
 
+Este trabalho está licenciado sob CC BY-SA 4.0© 2 por g 
